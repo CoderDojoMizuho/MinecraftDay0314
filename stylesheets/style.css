@@ -1,0 +1,15 @@
+/* ----------------------------
+ * style.css
+ * ---------------------------- */
+
+.jumbotron, .jumbotron h1 , .jumbotron p {
+	color: #FA5858;
+}
+
+
+#section-1 p {
+    text-align: left;
+}
+#section-2 .row {
+    margin-top: 50px;
+}
